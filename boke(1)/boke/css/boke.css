@@ -1,0 +1,113 @@
+*{padding: 0;margin: 0;}
+body{}
+ul,ol {list-style: none;}
+img {border: none;vertical-align: middle;}
+a {text-decoration: none;color: #232323;}
+.cl{clear: both;}
+.person{background-image: linear-gradient(19deg, #FAACA8 0%, #DDD6F3 100%);}
+.top{background-color:#faaca8;width: 100%;height: 40px;position: fixed;font-size: 18px;line-height: 40px;z-index: 100;}
+.top p{padding: 0px 20px;}
+.content{width: 1000px;margin: auto;position: relative;}
+.toux{text-align: center;padding-top: 50px;}
+.logo img{width: 200px;height: 200px;border-radius: 50%;}
+.toux p{font-size: 22px;line-height: 44px;font-weight: bold;}
+
+.nav{height: 50px;line-height: 50px;background: #FAACA8;margin-top: 15px;}
+.nav ul li{float: left;width: 333px;text-align: center;}
+.nav ul li p{font-size: 18px;}
+.nav ul li:hover{color: #ffffff;}
+
+.one ul li{background: #ffffff;margin: 15px 0;box-sizing: border-box;padding: 0px 15px;border-radius: 10px;box-shadow: 0px 6px 10px #888888;}
+.one1 h2{line-height: 48px;padding: 10px 0;}
+.one1 p{text-indent: 2em;line-height: 28px;margin-left: 10px;float: left;width: 428px;}
+.one1 img{float: left;width: 200px;height: 162px;border-radius: 10px;}
+.one2{height: 40px;line-height: 40px;margin-top: 15px;color: #999999;}
+.one2 img{float: left;width: 35px;height: 35px;border-radius: 50%;}
+.one2 p{float: left;margin-left: 10px;}
+.one2 span{float: right;}
+
+.Europe{background-color: rgba(255, 255, 255, 0.5);}
+.Current{width: 100%;color: #ccc;padding: 20px 0;}
+.Europe .woes{width: 718px;padding: 20px 0px 20px 20px;float: left;box-sizing: border-box;}
+.sca span{background: #de615b;color: #ffffff;padding: 3px 7px;margin-left: 20px;margin-top: 10px;border-radius: 5px;margin-left: 14px;}
+.dsc ul li img{float: left;}
+.dsc ul li img{width: 30px;height: 30px;}
+.sca{padding-top: 15px;}
+.dsc h2{text-align: center;font-size: 18px;}
+.Europe .woes .p{color: #ccc;margin-bottom: 20px;}
+.Europe .woes .p span{margin-right: 10px;}
+.Europe .woes .p1{text-indent: 2em;line-height: 30px;font-size: 15px;}
+.Europe .debt{width: 240px;float: right;padding:20px 15px;}
+.Europe .debt .dsc{background: #f3f3f3;padding: 20px 0;margin-bottom: 10px;}
+.aak{width:80px;margin:0 auto 10px;border-radius: 50%;height: 80px;display:block;}
+.dsc ul li p{margin-left: 10px;}
+.Europe .debt .dsc p{padding-left: 27px;}
+.Europe .debt .dsc h3{border-left: solid 4px #faaca8;padding-left: 4px;font-size: 16px;}
+.Europe .debt .dsc ul{padding: 10px;}
+.Europe .debt .dsc ul li{line-height: 30px;overflow: hidden;text-overflow:ellipsis;white-space: nowrap;border-bottom: 1px dotted #000000;padding: 5px;}
+
+.tb72{background: url(../images/bj.png);background-size: 100% 100%;height: 250px;}
+.a77a{border: 1px solid#9e9e9e;}
+.wenzi p{text-align: left;color: #2f2f2f;line-height: 33px;}
+.wenzi{box-sizing: border-box;padding: 20px 20px;}
+.wenzi span{color: #2f2f2f;line-height: 28px;text-align: left;}
+.wenzi img{width: 15px;margin-right: 2px;}
+.wenzi button{width: 150px;height: 30px;text-align: center;margin: 10px 27px;}
+/* 弹出层 */
+.marsk-container{position: fixed; top: 0; right: 0; left: 0; bottom: 0px; background: rgba(0,0,0,.5); z-index: 10;display: none; }
+.marsk-container .tkyy_con{width: 460px;background: #fff;top: 20%;border-radius: 6px;padding: 3% 0;position: relative;left: 35%;}
+.loginc{border-top: 1px solid#000000;padding:10px 20px;}
+.loginc h3{font-size: 18px;line-height: 36px;letter-spacing: 5px;text-align: center;}
+.zh{margin: 25px 0 10px 0;padding-left: 44px;}
+.zh p{float: left;width: 50px;height: 40px;background: #f6736c;line-height: 40px;text-align: center;color: #ffffff;}
+.zh input{float: left;height: 35px;padding-left: 10px;width: 260px;}
+.mima input{height: 35px;width: 300px;width: 312px;padding-left: 10px;margin-left: 44px;}
+.mima {margin:20px 0 20px 0 ;}
+.da{margin-left: 110px;}
+.da button{width: 200px;height: 35px;margin-top: 20px;}
+.baochi{text-align: left;width: 317px;padding-left: 15px;margin: 15px auto;}
+.baochi span{float: right;margin-right: 31px;}
+
+
+.content1{width:730px;float: left;}
+.content1 h3{text-align: center;margin-top: 20px;font-size: 25px;color: #1d140e;line-height: 50px;}
+.zjleft1{padding: 10px 20px;}
+.zjleft1 img{width: 138px;float: left;margin-right: 20px;}
+.zjleft2 h3{float: left;font-size: 18px;line-height: 36px;}
+.zjleft2 span{float: right;font-size: 12px;}
+.zjleft2{float: left;color: #FFFFFF;width: 252px;}
+.zjleft2 p{font-size: 12px;line-height: 22px;}
+.beijing{background: #e5b31e;border-radius: 50px;padding: 4px 15px;margin-top: 6px;}
+.zjleft2 button{float: right;background: #444444;color: #FFFFFF;border: none;padding: 5px 20px;margin-top: 10px;letter-spacing: 5px;}
+.rbtop p{width: 2px;height:30px ;background: #faaca8;float: left;margin-right: 10px;margin-top: 10px;}
+.rbtop h2{color: #de615b;font-size: 25px;line-height: 50px;}
+.rebo{padding: 15px;}
+.rbnav{margin-left: 45px;margin-top: 15px;}
+.rbnav ul li{float: left;border-right: 1px solid#2e2e2e;height: 30px;width: 80px;text-align: center;line-height: 30px;}
+.rbnav ul li p{color: #FFFFFF;background: #444444;}
+.rbnav ul li p:hover{background: #de615b;color: #232323;}
+.reboc ul {padding: 15px 40px;}
+.reboc ul li{float: left;width: 145px;margin: 10px 5px;position: relative; overflow: hidden;}
+.tua2 {width: 145px;height: 235px;overflow: hidden;transition: all 0.3s ease-out;}
+.image-mask1 {position: absolute;width: 100%;top: 0;background: rgba(71, 71, 71, 0.6);color: #ffffff;opacity: 0;line-height: 235px;text-align: center;overflow: hidden;height: 235px;}
+.reboc ul li:hover .image-mask1 {opacity: 1;cursor: default;}
+.reboc ul li:hover .tua2{z-index: 5;transform: scale(1.1);}
+.reboc ul li:hover .tua2{height: 235px;overflow: hidden;}
+.tua1 {text-align: center;width: 40px;margin: auto;height: 40px;}
+.gao {height: 235px;overflow: hidden;}
+.reboc ul li p{text-align: center;color: #000000;line-height: 28px;padding-top: 15px;}
+.reboc ul li:hover p{color: #de615b;}
+
+
+
+.mei1 {display: -webkit-flex;display: flex;justify-content: center;float: left;flex-direction: row-reverse;
+flex-wrap: wrap;align-items: baseline;width: 730px;margin-top: 20px;}
+.bord p:hover{color: #000000;}
+.bord{margin: 2rem 2rem;text-align: center;background: #de615b;border-radius: 10px;width: 294px;overflow: hidden;}
+.tu {height:277px;width: 294px;border-top-left-radius: 10px;border-top-right-radius: 10px;overflow: hidden;transition: all 0.3s ease-out;}
+.wena {text-align: center;height: 50px;line-height: 50px;color: #ffffff;}
+.bord:hover .tu{}
+.bord:hover .tu{height: 277;overflow: hidden;transform: scale(1.1);}
+
+
+.fotter p{text-align: center;background: #de615b;color: #ffffff;height: 40px;line-height: 40px;margin-top: 20px;}
